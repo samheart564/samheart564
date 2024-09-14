@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Sam 👋
 
-<!--
-**samheart564/samheart564** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an unofficial WN editor and Azur Lane Guidemaker. I don't expect any money, nor will donors get anything for paying me, but anything is appreciated!
 
-Here are some ideas to get you started:
+🍵Buy me a coffee on Ko-Fi [here](https://ko-fi.com/samheart564)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+- 📖 [Neosekai Translations](https://www.neosekaitranslations.com/)
+- 🖊 [Azur Lane English Community Guide Compendium](https://samheart564.github.io/ECGC/) 
+
+<br/>
+
+![Sam Heart's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samheart564&layout=donut-vertical&theme=vision-friendly-dark)
