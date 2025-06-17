@@ -10,4 +10,4 @@ I'm an unofficial WN editor and Azur Lane Guidemaker. I don't expect any money, 
 
 <br/>
 
-![Sam Heart's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samheart564&layout=donut-vertical&theme=vision-friendly-dark)
+![Sam Heart's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samheart564&layout=donut-vertical&theme=vision-friendly-dark&hide=lua,html)
