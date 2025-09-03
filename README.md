@@ -6,7 +6,7 @@ I'm an unofficial WN editor and Azur Lane Guidemaker. I don't expect any money, 
 
 ### Links
 - 📖 [Neosekai Translations](https://www.neosekaitranslations.com/)
-- 🖊 [Azur Lane English Community Guide Compendium](https://samheart564.github.io/ECGC/) 
+- 🖊 [Azur Lane English Community Guide Compendium](https://azurlaneecgc.com) 
 
 <br/>
 
